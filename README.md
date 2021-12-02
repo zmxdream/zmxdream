@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Baidu PaddlePaddle team
 - 🌱 I’m currently learning Parameter Server
 
-[![zmxdream's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmxdream&show_icons=true)](https://github.com/zmxdream/github-readme-stats)
-[![zmxdream's code languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhiqwang&layout=compact&hide=jupyter%20notebook)](https://github.com/zmxdream/toplangs)
+[![zmxdream's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmxdream&show_icons=true&theme=react)](https://github.com/zmxdream/github-readme-stats)
+[![zmxdream's code languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zmxdream&theme=react)](https://github.com/zmxdream/toplangs)
