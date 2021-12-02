@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋  [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zmxdream.zmxdream)](https://github.com/zmxdream/zmxdream)
+
 
 <!--
 **zmxdream/zmxdream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
