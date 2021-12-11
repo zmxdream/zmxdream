@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Parameter Server
 
 
-[![zmxdream's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmxdream&show_icons=true&theme=react)](https://github.com/zmxdream/github-readme-stats)
+[![zmxdream's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmxdream&show_icons=true)](https://github.com/zmxdream/github-readme-stats)
