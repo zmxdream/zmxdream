@@ -1,4 +1,4 @@
-### Hi there 👋  [![Visitor](https://visitor-badge.glitch.me/badge?page_id=zmxdream.zmxdream)](https://github.com/zmxdream/zmxdream)
+### Hi there 👋 
 
 
 <!--
