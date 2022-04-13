@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Baidu PaddlePaddle team
-- 🌱 I’m currently learning GPU-based Parameter Server
+- 🌱 I’m currently learning GPU/XPU-based Parameter Server
 
 
 [![zmxdream's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmxdream&show_icons=true)](https://github.com/zmxdream/github-readme-stats)
