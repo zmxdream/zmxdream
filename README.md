@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zmxdream.zmxdream)]() before you came here.
 
-[![zmxdream's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmxdream&show_icons=true)](https://github.com/zmxdream/github-readme-stats)
+### [![zmxdream's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmxdream&show_icons=true)](https://github.com/zmxdream/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
