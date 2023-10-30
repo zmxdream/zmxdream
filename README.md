@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Baidu PaddlePaddle team
 - 🌱 I’m currently learning GPU/XPU-based Parameter Server
-- 🌱 I’m currently interested in NCLL&HugeCTR
+- 🌱 I’m currently interested in NCCL&HugeCTR
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zmxdream.zmxdream)]() before you came here.
 
