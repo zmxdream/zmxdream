@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Baidu FC team
-- 🌱 I’m currently doing XPU-based Parameter Server
+- 🔭 I’m currently working on ByteDance AML team
+- 🌱 I’m currently doing MLU-based Parameter Server
 - 🌱 I’m currently interested in NCCL&tensorflow
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zmxdream.zmxdream)]() before you came here.
